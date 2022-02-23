@@ -4,8 +4,7 @@
 ```js
 npm i nodemailer
 ```
-# Emails:-
-We will discuss this in class
+# Emails📧
 
 The most common protocol for sending emails is SMTP ( Simple Mail Transfer Protocol ) but you may also want to know about IMAP and POP3 which are mostly used by our email clients.
 
